@@ -1,1 +1,15 @@
 # API_INTEGRATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : RAMSAI KANURI
+
+**INTERN ID** : CT6WDS2681
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (5)](https://github.com/user-attachments/assets/a9981ea8-8ae9-4642-b4bb-9a9194fc76ba)
